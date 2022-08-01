@@ -127,7 +127,7 @@ window.onload = function(){
   
       var footer = document.createElement("DIV");
           footer.className = "footer";
-      var footerText = document.createTextNode("© Orkhan Farmanli");
+      var footerText = document.createTextNode("");
           footer.appendChild(footerText);
           document.body.appendChild(footer);
   
